@@ -1,4 +1,7 @@
 # DeepCarc
+
+### We made a simple version for the proposed DeepCarc model (Mol2vec + supervised selection method) under the folder of deepcarc. In this simple version, all you need is to update the path in the main.py file for repeating the result in the manuscript. 
+
 ### In the DeepCarc project, we explored three chemical descriptors (Mol2vec, Mold2 and MACCS) to develop the base classifiers. Therefore, the corresponding data and script were included under the descriptor folder. 
 
 ## mol2vec
